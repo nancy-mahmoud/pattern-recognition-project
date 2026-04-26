@@ -1,6 +1,6 @@
-# PhishGuard — URL Threat Detector 🛡️
+# Phishing URL Detector 
 
-PhishGuard is an AI-powered Phishing URL Detection System that analyzes websites in real-time to determine whether they are legitimate or potential phishing threats. It combines a robust rule-based typosquatting detection engine with a trained Machine Learning model (Random Forest Classifier) to provide accurate, confidence-based verdicts.
+An AI-powered Phishing URL Detection System that analyzes websites in real-time to determine whether they are legitimate or potential phishing threats. It combines a robust rule-based typosquatting detection engine with a trained Machine Learning model (Random Forest Classifier) to provide accurate, confidence-based verdicts.
 
 ## Features
 
